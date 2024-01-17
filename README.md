@@ -1,5 +1,15 @@
 ### Welcome to my profile! I'm João Vítor Santos de Andrade. Have a good look.
 
+## What I'm learning?
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="60"/>
+
+## What I want to learn next?
+<div>
+  <img aria-label="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" />
+  <img src="https://www.solidjs.com/assets/logo-123b04bc.svg" width="60" />
+</div>
+
+
 ## Contact Info
 <a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-santos-de-andrade-5a244a18a/"> Linkedin </a>
 

@@ -46,11 +46,13 @@
 <a href="https://github.com/JoaoVitorSantDrade">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorSantDrade&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorSantDrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 </div>
 <!--
 **JoaoVitorSantDrade/JoaoVitorSantDrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
